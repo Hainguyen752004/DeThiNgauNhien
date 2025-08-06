@@ -15,4 +15,4 @@
 - python >= 3.9
 ## Cách chạy
 - pip install -r requirements.txt
-- nếu muốn giao diện web thì gọi python web.py
+- nếu muốn giao diện web thì gọi python web.py sau đó ấn vào đường link để sử dụng
